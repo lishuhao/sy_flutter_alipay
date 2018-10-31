@@ -1,8 +1,8 @@
 name: sy_flutter_alipay
-description: flutter 支付宝插件
-version: 0.0.1
-author:
-homepage:
+description: flutter 支付宝插件，适用于android和iOS
+version: 0.1.1
+author: gg2366493058@gmail.com
+homepage: https://github.com/lishuhao/sy_flutter_alipay
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"

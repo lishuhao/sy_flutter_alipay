@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.1.1 - 2018/10/31
 
-* TODO: Describe initial release.
+* 支持andoid 和iOS

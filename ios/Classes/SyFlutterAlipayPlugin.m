@@ -22,7 +22,7 @@
       }
       // NOTE: 调用支付结果开始支付
       [[AlipaySDK defaultService] payOrder:payInfo fromScheme:urlScheme callback:^(NSDictionary *resultDic) {
-          NSLog(@"reslut = %@",resultDic);
+          //NSLog(@"reslut = %@",resultDic);
           result(resultDic);
       }];
     //result([@"iOS " stringByAppendingString:[[UIDevice currentDevice] systemVersion]]);
