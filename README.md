@@ -64,6 +64,11 @@ class _MyAppState extends State<MyApp> {
 
 ```
 
-## 其它Flutter Plugin
-- [Flutter 组件库](https://github.com/lishuhao/sy_flutter_widgets)
+
+####
+其它Flutter plugin
+
+- [微信](https://github.com/lishuhao/sy_flutter_wechat)
+- [Flutter组件库](https://github.com/lishuhao/sy_flutter_widgets)
+- [高德定位](https://github.com/lishuhao/sy_flutter_amap)
 - [七牛云存储SDK](https://github.com/lishuhao/sy_flutter_qiniu_storage)
