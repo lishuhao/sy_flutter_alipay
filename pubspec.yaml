@@ -1,6 +1,6 @@
 name: sy_flutter_alipay
-description: flutter 支付宝插件，适用于android和iOS
-version: 0.1.1
+description: A Flutter plugin for integrating Alipay in iOS and Android applications.
+version: 0.2.1
 author: gg2366493058@gmail.com
 homepage: https://github.com/lishuhao/sy_flutter_alipay
 
