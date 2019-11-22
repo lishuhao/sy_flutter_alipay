@@ -1,3 +1,11 @@
+# I'm sorry I cannot offer support for this package any more. Feel free to fork it, you have the source
+
+<p align="center">
+    <a href="https://pub.dev/packages/sy_flutter_alipay">
+        <img src="https://img.shields.io/badge/pub-0.2.1-blue.svg?branch=master" alt="Build Status" />
+    </a>
+</p>
+
 # sy_flutter_alipay
 
 flutter 支付宝插件
